@@ -1,5 +1,7 @@
 # Learn Python 3
 
+junior 
+
 <a href="https://www.codecademy.com" target="_blank"><img src="https://github.com/Codecademy/learn-cpp/blob/master/logo.png" align="right" width=170;></a>
 
 <!-- [![](https://img.shields.io/badge/language-English-blue.svg)](./README.md) -->

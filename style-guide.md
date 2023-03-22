@@ -1,6 +1,6 @@
 # Codecademy Curriculum Python Style Guide 
 
-
+business
 ## Comments
 
 - There should be a space between the hashtag and the text for readability.
